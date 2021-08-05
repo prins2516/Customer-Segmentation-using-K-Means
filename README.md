@@ -20,3 +20,8 @@ Customer segmented in 5 clusters
 
 
 ![image](https://user-images.githubusercontent.com/60324687/128401462-9dfd3df9-2203-488f-a594-5adb7d5fde31.png)
+
+
+
+![image](https://user-images.githubusercontent.com/60324687/128403400-d03ed785-b05c-47a5-ab02-99a917c79dea.png)
+
